@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Marlon Pugss</h1>
-<h3 align="center">Fascinado por tecnologia e como ela afeta a vida das pessoas</h3>
+<h3 align="center">Fascinado por tecnologia e como ela impacta a vida das pessoas</h3>
 
 - 🌱 Atualmente estou aprendendo **Python e App Scripts (sheets)**
 
